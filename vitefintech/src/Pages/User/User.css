@@ -1,0 +1,12 @@
+.flex{
+    display: flex;
+}
+.form>div{
+    display: flex;
+    justify-content: space-between;
+}
+.review{
+    width: 30%;
+    margin: 30px auto;
+    background-color: rgb(16, 228, 48);
+}
